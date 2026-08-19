@@ -7,13 +7,13 @@ A small HoloLens/XR basketball prototype created as a university assignment.
 
 ## Overview
 
-This project is a small mixed reality basketball prototype built for HoloLens. The goal was to experiment with XR interaction, spatial setup and basic Unity gameplay mechanics on HoloLens hardware.
+This project is a small mixed reality basketball prototype built for HoloLens. The goal was to experiment with XR interaction, spatial setup and basic Unity gameplay mechanics on HoloLens hardware as part of a university course assignment.
 
 ## Features
 
-- Basic basketball interaction prototype (picking up basketballs, throwing it and resetting timer and score)
+- Basic basketball interaction prototype, including picking up basketballs, throwing them, and resetting timer/score values
 - Unity XR/HoloLens setup
-- Simple throwing or interaction logic
+- Simple throwing and interaction logic
 - Basic scene and object setup
 
 ## Technical Focus
