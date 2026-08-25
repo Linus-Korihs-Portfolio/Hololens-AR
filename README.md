@@ -38,3 +38,4 @@ It is included as a learning prototype, not as one of my main gameplay programmi
 
 - Original repository: [LinusKorihs/Hololens](https://github.com/LinusKorihs/Hololens)
 - [Portfolio](https://linustheuringer.com)
+- Mail: Linustheuringer@gmail.com
